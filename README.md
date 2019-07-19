@@ -1,8 +1,8 @@
 # Météor
 >**Version:** 1.14.3+
-**Compatibilité:** Solo + Multijoueurs
-**Type de serveur:** Vanilla
-**Créateur:** @JeffWooden_
+>**Compatibilité:** Solo + Multijoueurs
+>**Type de serveur:** Vanilla
+>**Créateur:** @JeffWooden_
 
 ## Présentation
 
