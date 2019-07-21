@@ -33,7 +33,7 @@ Ces dernières donnent accès à des butins très intéressants et ce, en foncti
 
 Connaître les aubaines de la découverte d'une météorite ou d'un météor, c'est bien gentil. Mais pour obtenir ces profits, il nous faut nous rendre au lieu du brutal atterrissage. Pour ce faire vous aurez besoin d'un détecteur de météorite. Qui vous indiquera le nombre de blocs vous séparant de l'objet. Voilà une image vous donnant la recette pour le fabriquer: ![Recette de fabrication](https://image.noelshack.com/fichiers/2019/29/5/1563547137-detecteur-de-meteore.png)
 
-Mais prenez garde, des bêtes venues d'ailleurs sont prêtes à protéger leur météore coûte que coûte.
+**Attention:** La chute des météorites provoquent la destruction des alentours. Un item visant à protéger vos bases est en cours de développement et arrivera dans la prochaine release.
 
 ## Installation
 Pour installer la dernière version du datapack, rendez-vous [ici](https://github.com/JeffWooden/meteor/releases) et cliquez sur la version qui vous intéresse (à noter que les versions antérieures peuvent comporter plus de dysfonctionnements que les versions les plus récentes) -> [Démonstration](google.com).
