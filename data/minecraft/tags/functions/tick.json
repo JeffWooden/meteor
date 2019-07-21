@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"crafting:main",
+		"summon:main",
+		"detector:main",
+		"found:main"
+	]
+}

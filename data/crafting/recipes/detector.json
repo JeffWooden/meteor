@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#g#",
+        "DCD",
+        "#g#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:magma_block"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "C": {
+            "item": "minecraft:compass"
+        }
+    },
+    "result": {
+        "item": "minecraft:structure_void",
+        "count": 1
+    }
+}

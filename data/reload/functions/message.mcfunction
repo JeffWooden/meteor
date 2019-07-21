@@ -1,0 +1,2 @@
+#Function by @JeffWooden_ | All rights reserved (c)
+tellraw @a {"translate":"text.reload","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Si un message du genre \"text.reload\" apparaît, veuillez télécharger le pack de ressources.\nIf a message like \"text.reload\" appears, please download the resource pack."}}}
