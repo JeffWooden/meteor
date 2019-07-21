@@ -36,7 +36,7 @@ Connaître les aubaines de la découverte d'une météorite ou d'un météor, c'
 **Attention:** La chute des météorites provoquent la destruction des alentours. Un item visant à protéger vos bases est en cours de développement et arrivera dans la prochaine release.
 
 ## Installation
-Pour installer la dernière version du datapack, rendez-vous [ici](https://github.com/JeffWooden/meteor/releases) et cliquez sur la version qui vous intéresse (à noter que les versions antérieures peuvent comporter plus de dysfonctionnements que les versions les plus récentes) -> [Démonstration](google.com).
+Pour installer la dernière version du datapack, rendez-vous [ici](https://github.com/JeffWooden/meteor/releases) et cliquez sur la version qui vous intéresse (à noter que les versions antérieures peuvent comporter plus de dysfonctionnements que les versions les plus récentes) -> [Démonstration](https://youtu.be/L6LA7DmgBXA).
 Une fois le code source téléchargé en .zip, dézippez-le et placez le contenu dans le dossier *datapacks*.
 Voici une petite vidéo explicative: https://youtu.be/RIjKKnoYoxo.
 Après avoir téléchargé et installé le datapack, assurez-vous d'avoir aussi installé ce pack de ressources en cliquant [ici](https://www.mediafire.com/file/kau9fhsd8lqo5h0/Meteor_Resource_Pack.zip/file) (Très important !).
